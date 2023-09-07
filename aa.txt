@@ -1,0 +1,6 @@
+dir
+pause
+time
+pause
+date
+pause
